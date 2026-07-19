@@ -1,0 +1,6 @@
+{
+  "name": "PRD Brief Generator",
+  "description": "An intelligent tool for Customer Experience (CX) professionals to generate structured Product Briefs and PRDs from customer chat summaries and CSV/Excel sheets using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
